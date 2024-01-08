@@ -1,0 +1,2 @@
+Создание проекта
+	mvn archetype:generate -DgroupId=loc.homework1 -DartifactId=App -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
